@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HI4G39v.2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="MenuFragment_title">Please select from the menu</string>
+    <string-array name="series_array">
+        <item>Breaking Bad</item>
+        <item>Game of Thrones</item>
+        <item>Black Sails</item>
+        <item>Better Call Saul</item>
+        <item>Modern Family</item>
+        <item>True Detective</item>
+        <item>House of Cards</item>
+    </string-array>
+
+
+</resources>
+
+
+
+

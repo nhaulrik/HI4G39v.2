@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.klaushaulrik.hi4g39v2.MenuFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/MenuFragment_title"
+        android:layout_gravity="left|top"
+        android:textSize="22sp"
+        android:textIsSelectable="false" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="529dp"
+        android:id="@+id/listView"
+        android:layout_gravity="center_horizontal|bottom" />
+
+</FrameLayout>
