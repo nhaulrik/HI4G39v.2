@@ -18,6 +18,16 @@
         <item>House of Cards</item>
     </string-array>
 
+    <string name="breaking_bad">Breaking Bad er en amerikansk drama tv-serie skabt af Vince Gilligan, og produceret af Sony Pictures Television. Den bliver sendt i USA og Canada på kabel-tv-stationen AMC</string>
+    <string name="game_of_thrones">Game of Thrones er en amerikansk middelalder-fantasy tv-serie skabt af David Benioff og Dan Weiss for HBO. Serien, der er baseret på forfatteren George R. R</string>
+    <string name="black_sails"> Black Sails is an American dramatic adventure television series set on New Providence Island and a prequel to Robert Louis Stevenson\'s novel Treasure Island </string>
+
+    <string-array name="description_array">
+        <item>@string/breaking_bad</item>
+        <item>@string/game_of_thrones</item>
+        <item>@string/black_sails</item>
+    </string-array>
+
 
 </resources>
 
